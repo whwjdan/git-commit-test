@@ -4,3 +4,4 @@
 > 한 줄의 경우 fast forward merge로 기존 main 혹은 develop 브런치 기반
 > <br>
 > 두 줄의 경우 git merge --no-ff 옵션으로 진행해야 하며 머지에 대한 커밋이 생성
+>
